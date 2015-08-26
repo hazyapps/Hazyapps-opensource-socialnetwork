@@ -8,6 +8,7 @@ OSSN is released under the GNU General Public License (GPL) Version 2
 Languages
 ==========
 * English
+* Dutch
 * German
 
 Front-End Features
